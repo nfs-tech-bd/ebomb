@@ -1,11 +1,11 @@
-# ems
+# ebomb
 Simple email bomber script
 You can send unlimited Emails to your victim
 
 Termux commands
 
-cd ems
+cd ebomb
 
 bash setup.sh
 
-bash ems.sh
+bash ebomb.sh
