@@ -8,7 +8,7 @@ You can send unlimited Emails to your victim
 
 * `apt upgrade`
 
-* `pkg instalk python2`
+* `pkg install python2`
 
 * `pkg install git`
 
