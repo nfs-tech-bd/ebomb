@@ -2,6 +2,6 @@
 Simple email bomber script
 You can send unlimited Emails to your victim
 
-Termux commands
+### Termux commands
 
-### apt update
+* apt update
